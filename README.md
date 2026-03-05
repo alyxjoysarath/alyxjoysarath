@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋 I'm Alyx Joy Sarath 
 
-<!--
-**alyxjoysarath/alyxjoysarath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech Computer Science Student  
+🏫 TKM Institute of Technology  
+🐍 Learning Python and Problem Solving  
+🤖 Interested in Robotics Projects  
 
-Here are some ideas to get you started:
+## 🚀 Skills
+- Python (Basics)
+- C Programming (Basics)
+- Problem Solving
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Currently Learning
+- BTech First Year Fundamentals
+- Python Programming
+- C Programming
+
+## 🎯 Goals
+- Build real-world projects
+- Improve programming skills
+- Contribute to open source
+- Get placed in a top tech company
+
